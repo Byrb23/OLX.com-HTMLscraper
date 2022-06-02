@@ -1,8 +1,4 @@
-	//MP#2//
-	//lib_MP2_BANZON.h//
-      //Byron Ramon O. Banzon//
-      //May 15, 2017//
-	//EEE11//														
+														
 
 #ifndef __MP2HEAD_H__
 #define __MP2HEAD_H__
