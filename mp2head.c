@@ -1,8 +1,4 @@
-    //MP#2//
-    //lib_MP2_BANZON.c//
-    //Byron Ramon O. Banzon//
-    //May 15, 2017//
-    //EEE11//   
+   
 
 
 #include <stdio.h>
